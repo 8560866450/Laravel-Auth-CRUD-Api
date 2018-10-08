@@ -32,7 +32,5 @@ DB_PASSWORD=
 </code></pre>
 
 
-<p><a target="_blank" rel="noopener noreferrer" href="https://github.com/halimus/laravel-rest-api/blob/master/public/images/composer.jpg"><img src="https://github.com/halimus/laravel-rest-api/raw/master/public/images/composer.jpg" alt="alt tag" style="max-width:100%;"></a></p>
-<p>7- Under construction...</p>
 </article>
       </div>
