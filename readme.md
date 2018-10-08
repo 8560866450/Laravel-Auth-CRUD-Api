@@ -32,5 +32,9 @@ DB_PASSWORD=
 </code></pre>
 
 
+<p>7-At last Run following Command . :</p>
+<pre><code>&gt; php artisan serve
+</code></pre>
+
 </article>
       </div>
