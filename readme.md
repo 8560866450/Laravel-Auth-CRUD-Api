@@ -12,7 +12,7 @@
 <pre><code>&gt; cd project_name
 </code></pre>
 <p>2- After getting into project folder run this command:</p>
-<pre><code>&gt; composer install
+<pre><code>&gt; composer update
 </code></pre>
 <p>3- To generate Laravel key, in your Terminal run:</p>
 <pre><code>&gt; php artisan key:generate
